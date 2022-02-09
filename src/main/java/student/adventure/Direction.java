@@ -1,0 +1,22 @@
+package student.adventure;
+
+public class Direction {
+    private String directionName = "";
+    private String room = "";
+
+    public Direction() {
+    }
+
+    public Direction(String directionName, String room) {
+        this.directionName = directionName;
+        this.room = room;
+    }
+
+    public String getDirectionName() {
+        return directionName;
+    }
+
+    public String getRoom() {
+        return room;
+    }
+}
