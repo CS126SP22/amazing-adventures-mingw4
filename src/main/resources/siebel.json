@@ -10,6 +10,9 @@
           "directionName": "East",
           "room": "SiebelEntry"
         }
+      ],
+      "items": [
+        "coin"
       ]
     },
     {
@@ -32,6 +35,10 @@
           "directionName": "East",
           "room": "SiebelEastHallway"
         }
+      ],
+      "items": [
+        "sweatshirt",
+        "key"
       ]
     },
     {
