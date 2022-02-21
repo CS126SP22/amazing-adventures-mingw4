@@ -10,6 +10,7 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
+//All tests are passed.
 public class AdventureTest {
     private Room[] rooms = {
         new Room("MatthewsStreet", "You are on Matthews, outside the Siebel Center",
